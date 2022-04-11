@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jakub/Desktop/clion/pk3/motorola/fence.cpp
+fence.h
+C:/Users/Jakub/Desktop/clion/pk3/motorola/fence.h
+iostream
+-
+vector
+-
+limits
+-
+
+C:/Users/Jakub/Desktop/clion/pk3/motorola/fence.h
+iostream
+-
+vector
+-
+
